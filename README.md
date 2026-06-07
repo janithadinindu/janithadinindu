@@ -5,7 +5,7 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=janithadinindu&label=Profile+Views&color=00D2FF&style=flat-square" />
   &nbsp;
-  <a href="mailto:janiyajaniya2021@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:contact@janithadinindu.dev"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
   &nbsp;
   <a href="https://github.com/janithadinindu"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
   &nbsp;
